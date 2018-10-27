@@ -11,3 +11,4 @@
 3. pandas data frame -> pickle data
 4. load
 5. jupyter hack tip
+6. upload pickle data -> large size
